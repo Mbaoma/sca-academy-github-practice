@@ -38,6 +38,12 @@ h1 {
   font-weight: 600;
 }
 
+.support-link {
+  padding-left: 50px;
+  font-weight: 500;
+  color: mediumseagreen;
+}
+
 .row {
   display: flex;
   gap: 8px;

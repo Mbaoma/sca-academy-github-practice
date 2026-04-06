@@ -18,7 +18,10 @@ This is a simple static project.
 
 1. Clone the repository
 2. Open `index.html` in your browser
-
+git checkout -b feature-name
+git add .
+git commit -m "work done"
+git push origin feature-name
 ## Notes
 
 This repo is intentionally imperfect so students have realistic tasks to work on.
